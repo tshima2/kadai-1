@@ -1,0 +1,50 @@
+.content {
+  margin:0 auto;
+}
+
+.contact{
+  /*   border-collapse: separate;     */
+}
+
+.contact th {
+  height: 7rem;
+  width: 150px;
+  text-align: right;
+}
+
+.contact td {
+  padding-left: 1rem;  
+}
+
+#contact_name{
+  width: 480px;
+}
+
+#contact_email{
+  width: 480px;
+}
+
+#contact_content{
+  width: 480px;
+  height: 7rem;
+}
+
+input#contact_submit{
+  color: #ffffff;
+  background-color: #87CEEB;
+  position: absolute;
+}
+
+
+input#contact_submit:hover{
+  color: #ffffff;
+  background-color: #87CEEB;  
+  opacity: 0.5;  
+}
+
+
+.contact2 p{
+  position:absolute;
+}
+
+
