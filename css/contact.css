@@ -43,8 +43,9 @@ input#contact_submit:hover{
 }
 
 
-.contact2 p{
+.contact p{
   position:absolute;
+  margin:0 auto;  
 }
 
 
